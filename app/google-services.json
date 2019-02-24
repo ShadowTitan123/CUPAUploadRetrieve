@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "525946537019",
+    "firebase_url": "https://birthdaycard-bb557.firebaseio.com",
+    "project_id": "birthdaycard-bb557",
+    "storage_bucket": "birthdaycard-bb557.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525946537019:android:0f61f1cf1112efa9",
+        "android_client_info": {
+          "package_name": "com.example.mohammedadil.birthdaycard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525946537019-44bf4ltvqq4rtgflebbque98f4m502p4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mohammedadil.birthdaycard",
+            "certificate_hash": "13fc66c31ac9ad08a4b7df50c45bee3c1449bd9b"
+          }
+        },
+        {
+          "client_id": "525946537019-rkuojtd2kdg5u5l3sd7k26gqdlgpvpjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHaO6oNt8uABvzJD66IEiL1qIDQ8SVeGM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525946537019-rkuojtd2kdg5u5l3sd7k26gqdlgpvpjb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
